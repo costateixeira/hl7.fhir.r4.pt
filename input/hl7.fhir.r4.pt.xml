@@ -5,7 +5,7 @@
   <url value="http://hl7.org/fhir/langs/ImplementationGuide/hl7.fhir.r4.pt"/>
   <!-- This version will propagate to all artifacts unless the "propagate-version" extension is overridden -->
   <version value="0.1.0"/>
-  <name value="FHIRLangPackSpanish"/>
+  <name value="FHIRLangPackPortuguese"/>
   <title value="Pacote de Língua Portuguesa"/>
   <status value="active"/>
   <experimental value="false"/>

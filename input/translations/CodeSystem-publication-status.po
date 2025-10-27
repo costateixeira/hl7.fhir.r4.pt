@@ -1,0 +1,52 @@
+# null
+msgid ""
+msgstr ""
+
+#: draft
+msgid "Draft"
+msgstr "Projeto"
+
+# null
+#: draft@definition
+msgid "This resource is still under development and is not yet considered to be ready for normal use."
+msgstr "Este recurso ainda está a ser desenvolvido e não se considera que esteja pronto para uma utilização normal."
+
+# null
+#: active
+msgid "Active"
+msgstr "Ativo"
+
+# null
+#: active@definition
+msgid "This resource is ready for normal use."
+msgstr "Este recurso está pronto a ser utilizado normalmente."
+
+# null
+#: retired
+msgid "Retired"
+msgstr "Reformado"
+
+# null
+#: retired@definition
+msgid "This resource has been withdrawn or superseded and should no longer be used."
+msgstr "Este recurso foi retirado ou substituído e já não deve ser utilizado."
+
+# null
+#: unknown
+msgid "Unknown"
+msgstr "Desconhecido"
+
+# null
+#: unknown@definition
+msgid "The authoring system does not know which of the status values currently applies for this resource.  Note: This concept is not to be used for \"other\" - one of the listed statuses is presumed to apply, it's just not known which one."
+msgstr "O sistema de elaboração de documentos multimédia não sabe qual dos valores de estado se aplica atualmente a este recurso.  Nota: Este conceito não deve ser utilizado para \"outro\" - presume-se que um dos estados listados se aplica, apenas não se sabe qual."
+
+# null
+#: !!publication-status
+msgid "PublicationStatus"
+msgstr "Estado da publicação"
+
+# null
+#: !!publication-status/title
+msgid "PublicationStatus"
+msgstr "Estado da publicação"

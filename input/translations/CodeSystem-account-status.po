@@ -1,39 +1,67 @@
-# en -> pt
-
-#: account-status
-msgid "AccountStatus"
+# null
+msgid ""
 msgstr ""
 
-#: account-status/title
-msgid "AccountStatus"
-msgstr "AccountStatus"
-
-#: account-status/description
-msgid "Indicates whether the account is available to be used."
-msgstr "Indica se a conta está disponível para uso."
-
 #: active
-#. This account is active and may be used.
 msgid "Active"
-msgstr "Activa"
+msgstr "Ativo"
 
+# null
+#: active@definition
+msgid "This account is active and may be used."
+msgstr "Esta conta está ativa e pode ser utilizada."
+
+# null
 #: inactive
-#. This account is inactive and should not be used to track financial information.
 msgid "Inactive"
-msgstr "Inactiva"
+msgstr "Inativo"
 
+# null
+#: inactive@definition
+msgid "This account is inactive and should not be used to track financial information."
+msgstr "Esta conta está inativa e não deve ser utilizada para registar informações financeiras."
+
+# null
 #: entered-in-error
-#. This instance should not have been part of this patient's medical record.
 msgid "Entered in error"
-msgstr "Introduzido por engano"
+msgstr "Introduzido por erro"
 
+# null
+#: entered-in-error@definition
+msgid "This instance should not have been part of this patient's medical record."
+msgstr "Este caso não deveria fazer parte do registo médico deste doente."
+
+# null
 #: on-hold
-#. This account is on hold.
 msgid "On Hold"
 msgstr "Em espera"
 
-#: unknown
-#. The account status is unknown.
-msgid "Unknown"
-msgstr "Desconhedido"
+# null
+#: on-hold@definition
+msgid "This account is on hold."
+msgstr "Esta conta está em espera."
 
+# null
+#: unknown
+msgid "Unknown"
+msgstr "Desconhecido"
+
+# null
+#: unknown@definition
+msgid "The account status is unknown."
+msgstr "O estado da conta é desconhecido."
+
+# null
+#: !!account-status
+msgid "AccountStatus"
+msgstr "Estado da conta"
+
+# null
+#: !!account-status/title
+msgid "AccountStatus"
+msgstr "Estado da conta"
+
+# null
+#: !!account-status/description
+msgid "Indicates whether the account is available to be used."
+msgstr "Indica se a conta está disponível para ser utilizada."
